@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color>#ade8c5</background_color>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Copy of Candidatura - Home (1) - Container 8</name>
+        <order>8</order>
+        <sp_page display_value="copy_of_candidatura_home_1">74c34ef0970ff110489d747e6253afc2</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 04:56:03</sys_created_on>
+        <sys_id>1dc38634970ff110489d747e6253afcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Candidatura - Home (1) - Container 8</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1173448_gest_o_0">b1cd197c974bf110489d747e6253af2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd197c974bf110489d747e6253af2b</sys_scope>
+        <sys_update_name>sp_container_1dc38634970ff110489d747e6253afcb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 04:56:03</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

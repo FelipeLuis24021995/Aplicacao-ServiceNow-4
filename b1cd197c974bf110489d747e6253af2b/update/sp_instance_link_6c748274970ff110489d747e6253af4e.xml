@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>danger</color>
+        <css/>
+        <glyph>database</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">2c748274970ff110489d747e6253af4c</sp_column>
+        <sp_page/>
+        <sp_widget display_value="candidatura icon 3">f52e92bf97463110489d747e6253af90</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 04:59:01</sys_created_on>
+        <sys_id>6c748274970ff110489d747e6253af4e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lista de Pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1173448_gest_o_0">b1cd197c974bf110489d747e6253af2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd197c974bf110489d747e6253af2b</sys_scope>
+        <sys_update_name>sp_instance_link_6c748274970ff110489d747e6253af4e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 07:25:09</sys_updated_on>
+        <title>Lista de Pedidos</title>
+        <type>url</type>
+        <url>https://dev90474.service-now.com/x_1173448_gest_o_0_pedidos_list.do?sysparm_userpref_module=54056d34978bf110489d747e6253afb2</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=6c748274970ff110489d747e6253af4e"/>
+</record_update>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Gest O 0 1702088307659</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1173448_gest_o_0_1702088307659</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 02:18:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>85bfd5fc974bf110489d747e6253af7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gest O 0 1702088307659</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1173448_gest_o_0">b1cd197c974bf110489d747e6253af2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd197c974bf110489d747e6253af2b</sys_scope>
+        <sys_update_name>sys_app_module_85bfd5fc974bf110489d747e6253af7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 02:18:29</sys_updated_on>
+        <timeline_page/>
+        <title>Gest O 0 1702088307659</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">b1cd197c974bf110489d747e6253af2b</application>
+        <file_path/>
+        <instance_id>75ed3991db8bff400ae3ac44d4961901</instance_id>
+        <instance_name>dev90474</instance_name>
+        <name>sys_app_module_85bfd5fc974bf110489d747e6253af7b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Gest O 0 1702088307659</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1173448_gest_o_0_1702088307659</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 02:18:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>85bfd5fc974bf110489d747e6253af7b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Gest O 0 1702088307659</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1173448_gest_o_0">b1cd197c974bf110489d747e6253af2b</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">b1cd197c974bf110489d747e6253af2b</sys_scope><sys_update_name>sys_app_module_85bfd5fc974bf110489d747e6253af7b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 02:18:29</sys_updated_on><timeline_page/><title>Gest O 0 1702088307659</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>558428760</payload_hash>
+        <record_name>Gest O 0 1702088307659</record_name>
+        <reverted_from/>
+        <source>b9cd197c974bf110489d747e6253af2d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 02:18:29</sys_created_on>
+        <sys_id>99bfd5fc974bf110489d747e6253af8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c4c5e7ba50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 02:18:29</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1dbfd5fc834bf1104bb94bbc88b0387d</update_guid>
+        <update_guid_history>1dbfd5fc834bf1104bb94bbc88b0387d:558428760</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Gest O 0 1702088307659">6270e130978bf110489d747e6253af67</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 02:21:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>319e88e9f2da425c944de75416c09224</sys_id>
+        <sys_metadata>85bfd5fc974bf110489d747e6253af7b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gest O 0 1702088307659</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1173448_gest_o_0">b1cd197c974bf110489d747e6253af2b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd197c974bf110489d747e6253af2b</sys_scope>
+        <sys_scope_delete display_value="">11a750205ac249099fb0a458cf577669</sys_scope_delete>
+        <sys_update_name>sys_app_module_85bfd5fc974bf110489d747e6253af7b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_85bfd5fc974bf110489d747e6253af7b">99bfd5fc974bf110489d747e6253af8a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 02:21:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
